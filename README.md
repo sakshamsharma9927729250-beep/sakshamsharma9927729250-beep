@@ -58,33 +58,12 @@
   <tr>
     <td width="50%" style="vertical-align: top; padding: 10px;">
       <h4 style="color: #00FF66; margin-bottom: 8px;">🐍 Programming</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      
-      <h4 style="color: #00FF66; margin-top: 15px; margin-bottom: 8px;">🛠️ Tools & Environments</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    </td>
-    <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4 style="color: #00E5FF; margin-bottom: 8px;">📊 AI & Data Science</h4>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-
-      <h4 style="color: #00E5FF; margin-top: 15px; margin-bottom: 8px;">🤖 AI Platforms</h4>
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-    </td>
-  </tr>
-</table>
-
 <hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #00FF66, transparent);" />
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 ### 🚀 [DEPLOYED_SYSTEMS] / FEATURED PROJECTS
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-
   <div style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #00FF66; padding: 15px; border-radius: 8px;">
     <h4 style="margin: 0; color: #58a6ff;">🤖 AI Daily Task Automation Agent</h4>
     <p style="font-size: 0.9em; color: #8b949e; margin: 8px 0;">
@@ -101,13 +80,11 @@
     <span style="background: #238636; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.75em;">🏆 4th Position</span>
     <span style="background: #1f6beb; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.75em;">💰 ₹2,500 Team Prize</span>
   </div>
-
 </div>
 
-<br/>
+<br />
 
 <div style="background: #0d1117; border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
-
   <h4 style="margin-top: 0; color: #c9d1d9;">📁 Smart File Organizer</h4>
   <p style="font-size: 0.9em; color: #8b949e; margin: 5px 0;">
     Python automation project that organizes files using file handling and OS-level operations.
@@ -117,12 +94,10 @@
   <p style="font-size: 0.9em; color: #8b949e; margin: 5px 0;">
     Practical Python projects created while strengthening programming fundamentals: <i>Shopping Cart • ASCII Art Generator • Dice Simulator • Data Structures</i>
   </p>
-
 </div>
 
-<br/>
-
 <!-- ==================== KAGGLE & RESEARCH ==================== -->
+<br />
 <table border="0" style="width: 100%;">
   <tr>
     <td width="50%" style="vertical-align: top; background: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #21262d;">
