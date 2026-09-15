@@ -7,22 +7,29 @@
 
 <br />
 
-<div style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #00FF66; padding: 15px; border-radius: 8px; margin-bottom: 12px;">
-  <h4 style="margin: 0; color: #58a6ff;">🤖 AI Daily Task Automation Agent</h4>
-  <p style="font-size: 0.9em; color: #8b949e; margin: 8px 0;">
-    Google × Kaggle AI Agent Capstone focused on using AI-driven workflows and prompt engineering to automate practical daily tasks.
-  </p>
-  <a href="https://www.kaggle.com" style="color: #00FF66; font-size: 0.85em; text-decoration: none; font-weight: bold;">View on Kaggle →</a>
-</div>
-
-<div style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #00E5FF; padding: 15px; border-radius: 8px; margin-bottom: 12px;">
-  <h4 style="margin: 0; color: #58a6ff;">🧠 JARVIS AI Assistant</h4>
-  <p style="font-size: 0.9em; color: #8b949e; margin: 8px 0;">
-    Voice-controlled AI assistant developed as part of a <i>5-member college hackathon team</i>.
-  </p>
-  <span style="background: #238636; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.75em;">🏆 4th Position</span>
-  <span style="background: #1f6beb; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.75em;">💰 ₹2,500 Team Prize</span>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #00FF66; padding: 15px; border-radius: 8px; height: 100%;">
+        <h4 style="margin: 0; color: #58a6ff;">🤖 AI Daily Task Automation Agent</h4>
+        <p style="font-size: 0.9em; color: #8b949e; margin: 8px 0;">
+          Google × Kaggle AI Agent Capstone focused on using AI-driven workflows and prompt engineering to automate practical daily tasks.
+        </p>
+        <a href="https://www.kaggle.com" style="color: #00FF66; font-size: 0.85em; text-decoration: none; font-weight: bold;">View on Kaggle →</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #00E5FF; padding: 15px; border-radius: 8px; height: 100%;">
+        <h4 style="margin: 0; color: #58a6ff;">🧠 JARVIS AI Assistant</h4>
+        <p style="font-size: 0.9em; color: #8b949e; margin: 8px 0;">
+          Voice-controlled AI assistant developed as part of a <i>5-member college hackathon team</i>.
+        </p>
+        <span style="background: #238636; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.75em;">🏆 4th Position</span>
+        <span style="background: #1f6beb; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.75em;">💰 ₹2,500 Team Prize</span>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br />
 
