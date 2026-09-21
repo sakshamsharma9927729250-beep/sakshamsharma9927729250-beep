@@ -1,377 +1,159 @@
 <div align="center">
 
-# 🟢 `>_ SAKSHAM SHARMA`
+# 🚀 SAKSHAM SHARMA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=850&lines=Python+Developer+%7C+AI+Enthusiast;BCA+%28Artificial+Intelligence%29+Student;Building+AI+Agents+%26+Automation+Tools;Prompt+Engineering+%7C+LLMs+%7C+AI+Evaluation;Learning%2C+Building%2C+Shipping+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=7CFFB2&center=true&vCenter=true&width=900&lines=Python+Developer;JavaScript+Enthusiast;AI+Builder;BCA+Artificial+Intelligence" alt="Typing SVG" />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B16,100:00FF41&height=140&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20INNOVATE&fontColor=00FF41&fontSize=28&animation=twinkling&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7CFFB2&height=140&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20SHIP&fontColor=E6EDF3&fontSize=28" alt="header banner" />
 
 </div>
 
----
-
-<div align="center">
-
-### `SYSTEM STATUS`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  USER        : Saksham Sharma                               │
-│  ROLE        : Python Developer | AI Enthusiast             │
-│  EDUCATION   : BCA (Artificial Intelligence)                │
-│  STATUS      : 🟢 ONLINE                                    │
-│  MODE        : BUILDING                                     │
-│  MISSION     : Turning ideas into real-world AI solutions   │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 👨‍💻 `whoami`
-
-Hi! I'm **Saksham Sharma**, a BCA (Artificial Intelligence) student focused on **Python development, AI agents, automation, prompt engineering, AI evaluation and practical AI applications**.
-
-I enjoy turning problems into working software and continuously improving my development, AI and problem-solving skills.
-
-Currently, I'm focused on building a strong foundation in **Python + AI + Software Development**, while creating real-world projects and growing as a technology professional.
-
-> `💡 Learn → Build → Test → Improve → Ship`
-
----
-
-# 🟢 `CURRENT_FOCUS`
-
-```text
-[████████████████████████████████████████] ACTIVE
-
-🐍 Python Development
-🤖 AI Agents & LLM Applications
-⚙️ Automation
-🧠 Prompt Engineering
-📊 Data Analysis
-🔬 AI Research
-🔧 Git & GitHub
-🚀 Real-world Projects
-```
-
----
-
-# 🛠️ `TECH_STACK`
-
-### 💻 Programming
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,sql" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AI-%F0%9F%92%A1%20Builder-00C853?style=for-the-badge" alt="AI Builder" />
+  <img src="https://img.shields.io/badge/Focus-Real%20World%20Projects-1F6FEB?style=for-the-badge" alt="Focus" />
 </p>
 
-### 🔧 Development Tools
+---
 
+## 👨‍💻 About Me
+
+Hi, I'm <b>Saksham Sharma</b> — a BCA (Artificial Intelligence) student with a strong interest in <b>Python development, JavaScript, AI workflows, automation, and real-world product building</b>.
+
+I enjoy turning ideas into practical solutions, learning through hands-on projects, and improving my problem-solving skills one build at a time.
+
+> “Learn deeply, build practically, and keep shipping.”
+
+---
+
+## 🔍 Current Focus
+
+- 🐍 Python Development
+- 🤖 AI Agents & LLM Applications
+- ⚙️ Workflow Automation
+- 💡 JavaScript & Web Logic
+- 📊 Data Analysis & AI Evaluation
+- 🧩 Real-World Projects
+- 🔧 Git & GitHub Workflow
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql,c" alt="languages" />
 </p>
 
-### ☁️ AI / Data Platforms
-
+### Tools & Platforms
 <p align="left">
-<img src="https://skillicons.dev/icons?i=googlecolab" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,postman,figma,pycharm" alt="tools" />
 </p>
 
-**Also working with:**
+### AI & Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=googlecolab,kaggle,linux" alt="ai and data" />
+</p>
 
-`Kaggle` • `ChatGPT` • `Claude` • `Gemini` • `GitHub Copilot`
-
----
-
-# 🤖 `AI_ENGINEERING`
-
-```text
-AI Fundamentals        ███████████████████░░
-Prompt Engineering     ███████████████████░░
-AI Evaluation          ████████████████░░░░
-LLM Applications       ███████████████░░░░░
-AI Agents              ███████████████░░░░░
-Automation              █████████████████░░░
-Data Analysis           █████████████░░░░░░░
-```
-
-### Areas I'm Exploring
-
-* 🤖 AI Agents
-* 🧠 Large Language Models
-* ✍️ Prompt Engineering
-* ⚙️ Workflow Automation
-* 📊 Data Analysis
-* 🔍 AI Evaluation
-* 🧪 AI Experimentation
-* 🚀 AI-powered Applications
+Also working with: <b>ChatGPT</b> • <b>Claude</b> • <b>Gemini</b> • <b>GitHub Copilot</b> • <b>Jupyter Notebook</b>
 
 ---
 
-# 🚀 `FEATURED_PROJECTS`
+## 🚀 Featured Projects
 
-## 🤖 AI Daily Task Automation Agent
+### 1) 🤖 AI Daily Task Automation Agent
+A practical AI-powered automation project focused on task planning, workflow logic, and intelligent assistance using AI-driven reasoning.
 
-**Google × Kaggle AI Agent Capstone**
-
-An AI agent designed to automate daily tasks using prompt engineering and workflow automation.
-
-**Focus:**
-`AI Agents` • `LLMs` • `Prompt Engineering` • `Task Planning` • `Automation`
+<b>Stack:</b> Python • AI • Automation • Prompt Engineering
 
 ---
 
-## 🎙️ Jarvis AI Assistant
+### 2) 🎙️ Jarvis AI Assistant
+A voice-controlled assistant built for automation and system interaction, designed as a team project and recognized in a college AI hackathon.
 
-**College AI Hackathon — 4th Position 🏆**
+<b>Achievement:</b> 4th Position • Team Prize: ₹2,500
 
-A voice-controlled AI assistant developed in a team of five to perform system tasks through voice commands.
-
-🏆 **Achievement:** 4th position
-💰 **Team Prize:** ₹2,500
-
-**Focus:**
-`Python` • `Voice AI` • `Automation` • `System Control`
+<b>Stack:</b> Python • Voice AI • Automation • System Control
 
 ---
 
-## 📂 Smart File Organizer
+### 3) 📁 Smart File Organizer
+A utility that organizes files into structured folders efficiently using Python and OS-level operations.
 
-A Python automation utility that organizes files into predefined directories using file handling and OS-level folder operations.
-
-**Focus:**
-`Python` • `OS` • `File Handling` • `Automation`
+<b>Stack:</b> Python • File Handling • Automation • Productivity
 
 ---
 
-## 🐍 Python Project Suite
+### 4) 🧪 Python Project Suite
+A collection of small but valuable Python programs strengthening core fundamentals like loops, functions, OOP, and logic building.
 
-A collection of Python projects created to strengthen programming fundamentals.
-
-Includes:
-
-* 🛒 Shopping Cart System
-* 🎨 ASCII Art Generator
-* 🎲 Dice Rolling Simulator
-* 📋 Python List Programs
-* 🔁 Loops & Functions Practice
-* 🧠 Conditional Logic
-* 🏗️ OOP Fundamentals
+<b>Includes:</b> Shopping Cart System • ASCII Art Generator • Dice Roller • Practice Programs
 
 ---
 
-# 🧠 `CORE_CS`
+## 🧠 Core Skills
 
-```text
-Data Structures
-Object-Oriented Programming
-File Handling
-Exception Handling
-Functions & Control Flow
-Problem Solving
-Version Control
-```
+- Data Structures & Problem Solving
+- Object-Oriented Programming
+- File Handling & Exception Management
+- Functional Problem Solving
+- AI & Prompt Engineering
+- Automation & Workflow Design
+- Version Control with Git/GitHub
 
 ---
 
-# 🔬 `RESEARCH`
-
-I'm also involved in AI research collaboration.
-
-### Research Experience
-
-* Contributed to **2 AI-related research papers**
-* Literature review
-* Technical documentation
-* Research methodology
-* Analysis
-* Multidisciplinary collaboration
-
----
-
-# 🏆 `ACHIEVEMENTS`
+## 📈 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamsharma9927729250-beep&show_icons=true&theme=github_dark&hide_border=true&title_color=7CFFB2&icon_color=7CFFB2&text_color=E6EDF3&bg_color=0D1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamsharma9927729250-beep&layout=compact&theme=github_dark&hide_border=true&title_color=7CFFB2&text_color=E6EDF3&bg_color=0D1117" height="180" alt="Top Languages" />
+</div>
 
-| Achievement                      | Status           |
-| -------------------------------- | ---------------- |
-| 🏆 College AI Hackathon          | **4th Position** |
-| 🤖 Google AI Agent Course        | **Completed**    |
-| 🚀 Google AI Agent Capstone      | **Completed**    |
-| 🐍 Kaggle Notebooks              | **5+ Published** |
-| 📊 Public Datasets               | **Created**      |
-| 🌳 Kaggle Santa Tree Competition | **Participant**  |
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sakshamsharma9927729250-beep&theme=github-dark&hide_border=true&background=0D1117&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2" alt="Contribution Streak" />
 </div>
 
 ---
 
-# 🐼 `KAGGLE_PROFILE`
+## 🎓 Education
 
-<div align="center">
+<b>Bachelor of Computer Applications</b> — Artificial Intelligence
 
-### Kaggle Community Member
+Future University
 
-`Python Coder` • `Data Analyst` • `Dataset Creator` • `Pipeline Creator`
-
-<img src="https://img.shields.io/badge/Kaggle-Community%20Member-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-
-</div>
+Expected Graduation: <b>2028</b>
 
 ---
 
-# 📜 `CERTIFICATIONS`
+## 🏆 Highlights
 
-* 🟢 Google × Kaggle AI Agent Course
-* 🟢 Google × Kaggle AI Agent Capstone Project
-* 🐍 Python Programming Certificate
-* 💻 C Programming Certificate
-* 🧠 Prompt Engineering Certificate
-* 🔧 Git & GitHub Workshop
-* ♊ Gemini AI Workshop
-* 🚀 Entrepreneurship & Startup Development Internship
-* 🌍 International Orientation Certificate
+- 🏆 4th Position in College AI Hackathon
+- 🤖 Google × Kaggle AI Agent Course Completed
+- 🚀 Capstone Project Experience
+- 📊 Kaggle Community Participation
+- 💡 Focused on practical AI + automation building
 
 ---
 
-# 🎓 `EDUCATION`
+## 🌐 Connect
 
-### Bachelor of Computer Applications — Artificial Intelligence
-
-**Future University**
-
-`Expected Graduation: 2028`
-
----
-
-# 📊 `GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakshamsharma9927729250-beep&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamsharma9927729250-beep&layout=compact&theme=chartreuse-dark&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 `CONTRIBUTION_STREAK`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sakshamsharma9927729250-beep&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-</div>
-
----
-
-# 📈 `CONTRIBUTION_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamsharma9927729250-beep&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🐍 `SNAKE_GAME`
-
-<div align="center">
-
-### Watch the contributions get eaten 🐍
-
-<img src="https://raw.githubusercontent.com/sakshamsharma9927729250-beep/sakshamsharma9927729250-beep/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
-
-# 📌 `WHAT_I_BUILD`
-
-```text
-       ┌─────────────────────────┐
-       │       PROBLEM            │
-       └────────────┬────────────┘
-                    ↓
-       ┌─────────────────────────┐
-       │      PYTHON / AI         │
-       └────────────┬────────────┘
-                    ↓
-       ┌─────────────────────────┐
-       │    AUTOMATION / LLM      │
-       └────────────┬────────────┘
-                    ↓
-       ┌─────────────────────────┐
-       │     REAL SOLUTION        │
-       └─────────────────────────┘
-```
-
----
-
-# 🌐 `CONNECT_WITH_ME`
-
-<div align="center">
-
-<a href="mailto:sakshamsharma9927729250@gmail.com">
-<img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-
-<a href="https://github.com/sakshamsharma9927729250-beep">
-<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-<!-- Replace the URL below with your actual LinkedIn profile -->
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-
-<!-- Replace the URL below with your actual Kaggle profile -->
-
-<a href="YOUR_KAGGLE_URL">
-<img src="https://img.shields.io/badge/Kaggle-00FF41?style=for-the-badge&logo=kaggle&logoColor=black" />
-</a>
-
-</div>
-
----
-
-# 👀 `PROFILE_VISITORS`
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sakshamsharma9927729250-beep&style=for-the-badge&color=00FF41&label=PROFILE+VISITORS" />
-
-</div>
-
----
-
-# 💭 `DEVELOPER_MINDSET`
-
-<div align="center">
-
-```text
-"Don't just learn technology.
-Build with it."
-
-              — Saksham Sharma
-```
-
-</div>
+<p align="left">
+  <a href="mailto:sakshamsharma9927729250@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sakshamsharma9927729250-beep">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### 🟢 `SYSTEM ONLINE`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7CFFB2,50:1F6FEB,100:0D1117&height=110&section=footer&animation=twinkling" alt="footer banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B16,100:000000&height=120&section=footer&animation=twinkling"/>
-
-**Python • AI • Automation • Research • Building**
+<p><b>Python • JavaScript • AI • Automation • Building</b></p>
 
 </div>
